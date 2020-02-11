@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Oct 24 21:59:15 IST 2018
+1.base=E\:\\Sirena\\PET\\TWIST_Navigation_Expression\\TWIST_Android (another copy) with navigation done\\New folder\\video app\\videoex1\\ex1\\Sirena Quadruped\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=front_pos.txt
+0.set=ASSET
+0.base=E\:\\Sirena\\PET\\TWIST_Navigation_Expression\\TWIST_Android (another copy) with navigation done\\New folder\\video app\\videoex1\\ex1\\Sirena Quadruped\\build\\intermediates\\assets\\debug
+1.path=front_vel.txt
